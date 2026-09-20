@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on architecting high-concurrency backends and event-driven AI microservices.<br>👯 I’m looking to collaborate on early-stage startup MVPs and systems requiring 0-to-1 execution.<br>🤝 I’m looking for help with advanced DevOps deployment strategies and scaling CI/CD pipelines.<br>🌱 I’m currently learning enterprise-grade cloud infrastructure (recently earned AWS Certified Cloud Practitioner).<br>💬 Ask me about real-time state synchronization (CRDTs), pessimistic database locking, and decoupling heavy APIs.<br>⚡ Fun fact: I build custom health-polling routes just to completely bypass 30-second PaaS cold starts.   
+🔭 I’m currently working on architecting high-concurrency backends and event-driven AI microservices.<br>👯 I’m looking to collaborate on early-stage startup MVPs and systems requiring 0-to-1 execution.<br>🤝 I’m looking for help with optimizing distributed state management and scaling WebSockets for heavy concurrent traffic.<br>🌱 I’m currently learning enterprise-grade cloud infrastructure (recently earned AWS Certified Cloud Practitioner).<br>💬 Ask me about real-time state synchronization (CRDTs), pessimistic database locking, and decoupling heavy APIs.<br>⚡ Fun fact: I build custom health-polling routes just to completely bypass 30-second PaaS cold starts.   
 
 
 ## 🌐 Socials:
@@ -19,6 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HeyyAbishek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HeyyAbishek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
